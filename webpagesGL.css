@@ -1,0 +1,22 @@
+/*
+ *Name: [Mohamed Ali]
+ *UnityID: [mhali5]
+ *Date: [9/16/2020]
+ *Assignment: [webpagesGL]
+ *Description: [Guided lab assignment, about me webpage]
+ */
+ 
+p {
+    font-family:Times ;
+    font-size: 16px
+    color: #FFFFFF ;
+}
+
+.table-border {
+    border: 1px solid #FFFFFF;
+}
+
+#photo-resize {
+    max-width: 250px ;
+    max-height: 300px ;
+}
